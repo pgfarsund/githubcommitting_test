@@ -42,4 +42,4 @@ smallGame_long <- smallGame |>
                names_to = "municipality",
                values_to = "number")
   
-# testing, trying this
+# testing, trying this notes notes
