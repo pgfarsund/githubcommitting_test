@@ -43,3 +43,6 @@ smallGame_long <- smallGame |>
                values_to = "number")
   
 # testing, trying this notes notes
+
+# i have made a branch, now i'm making changes, i'll commit and push, and you should accept it (:
+
